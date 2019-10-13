@@ -25,19 +25,19 @@ lisk: https://kbroman.org/github_tutorial/pages/first_time.html
 
 #### HOW TO UPLOAD A PROJECT INTO GITHUB USING git bash/cmd
 <tt>
-$ git clone https://github.com/TenzinTsundue/del.git
-$ cd del
-copy file into this folder(del)
-$ git add .
-$ git commit -m “update message”
-$ git push origin master
+$ git clone https://github.com/TenzinTsundue/del.git<br>
+$ cd del<br>
+copy file into this folder(del)<br>
+$ git add .<br>
+$ git commit -m “update message”<br>
+$ git push origin master<br>
 </tt>
-link: https://www.youtube.com/watch?v=vJ6RT8KCJ3w
+link: https://www.youtube.com/watch?v=vJ6RT8KCJ3w<br>
 
 #### Pushing your first project to github
-<tt>1. cmd to get into the folder
-2. check if git is already initialized: git status . If not : git init to initialize
-3. create a repository name same as local project
-4.  git remote add origin [web address]
-5.  git push origin master</tt>
+<tt>1. cmd to get into the folder<br>
+2. check if git is already initialized: git status . If not : git init to initialize<br>
+3. create a repository name same as local project<br>
+4.  git remote add origin [web address]<br>
+5.  git push origin master</tt><br>
 link: https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad
