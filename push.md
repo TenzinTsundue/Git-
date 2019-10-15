@@ -1,6 +1,11 @@
 # Practice-for-git
 git command practice repository
 
+#### Git config
+
+$ git config --global user.name "John Doe"<br>
+$ git config --global user.email "johndoe@example.com"<br>
+
 #### Pushing your first project to github
 1. cmd to get into the folder<br>
 2. check if git is already initialized: git status . If not : git init to initialize<br>
