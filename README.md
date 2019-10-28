@@ -41,5 +41,5 @@ General workflow/life cycle is as follows −
 <br>
 link: https://www.tutorialspoint.com/git/git_create_operation.htm
 
-[Learn Git In 15 Minutes - video](https://www.youtube.com/watch?v=USjZcfj8yxE)
+[Learn Git In 15 Minutes - video](https://www.youtube.com/watch?v=USjZcfj8yxE)<br>
 [Introductin to git - blog](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
